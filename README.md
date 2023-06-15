@@ -20,5 +20,5 @@
 
 - `gcc`
 - `printf (3)`
-- puts`
+- `puts`
 - `putchar`
