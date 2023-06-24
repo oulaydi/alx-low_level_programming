@@ -1,9 +1,8 @@
-# This is a README file
+# C - Hello, World
 
-### i'm going to answer some questions, and at the end of this project i'll be able to : 
+In this project, I learned about compilation using `gcc`, entry points using `main`, and text-printing functions in C.
 
-- How to print text using printf, puts and putchar
-- How to get the size of a specific type using the unary operator sizeof
+## Tasks :
 - How to compile using gcc
 - What is the default program name when compiling with gcc
 - What is the official C coding style and how to check your code with betty-style
