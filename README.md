@@ -12,7 +12,7 @@ Here is a comprehensive list of the projects included in this repository:
 * [0x06. C - More pointers, arrays and strings](./0x06-pointers_arrays_strings)
 * [0x07. C - Even more pointers, arrays and strings](./0x07-pointers_arrays_strings)
 * [0x08. C - recursion](./0x08-recursion)
-* [0x09. C - static_libraries](./0x09-static_libraries)
+* [0x09. C - static libraries](./0x09-static_libraries)
 
 ## Author✍️
 
