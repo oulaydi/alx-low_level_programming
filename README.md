@@ -13,9 +13,10 @@ Here is a comprehensive list of the projects included in this repository:
 * [0x07 : C - Even more pointers, arrays and strings](./0x07-pointers_arrays_strings)
 * [0x08 : C - recursion](./0x08-recursion)
 * [0x09 : C - static libraries](./0x09-static_libraries)
-* [0x0A : C - argcargv](./0x0A-argc_argv)
-* [0x0B : C - malloc free](./0x0B-malloc_free)
-* [0x0B : C - more malloc free](./0x0C-more_malloc_free)
+* [0x0A : C - argc, argv](./0x0A-argc_argv)
+* [0x0B : C - malloc, free](./0x0B-malloc_free)
+* [0x0C : C - more malloc free](./0x0C-more_malloc_free)
+
 ## Author✍️
 
 * **[Oussama Oulaydi](https://linkedin.com/in/oussamaoulaydi/)** <[OULAYDI](https://github.com/oulaydi)>
