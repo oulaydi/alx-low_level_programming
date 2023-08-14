@@ -16,6 +16,7 @@ Here is a comprehensive list of the projects included in this repository:
 * [0x0A : C - argc, argv](./0x0A-argc_argv)
 * [0x0B : C - malloc, free](./0x0B-malloc_free)
 * [0x0C : C - more malloc free](./0x0C-more_malloc_free)
+* [0x0E : C - structures typedef](./0x0E-structures_typedef)
 
 ## Author✍️
 
