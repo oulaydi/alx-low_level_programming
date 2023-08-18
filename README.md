@@ -19,6 +19,7 @@ Here is a comprehensive list of the projects included in this repository:
 * [0x0D : C - preprocessor](./0x0D-preprocessor)
 * [0x0E : C - structures typedef](./0x0E-structures_typedef)
 * [0x0F : C - function pointers](./0x0F-function_pointers)
+* [0x10 : C - variadic functions](./0x10-variadic_functions)
 
 ## Author✍️
 
