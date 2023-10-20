@@ -1,6 +1,6 @@
 # C - Singly linked lists
 
-https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/229/giphy-3.gif
+<p align="center"><img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/229/giphy-3.gif" alt="0x12-singly_linked_lists"></p>
 
 In this project, I practiced building and using singly linked lists
 in C while learning when and why to use linked lists versus arrays.
