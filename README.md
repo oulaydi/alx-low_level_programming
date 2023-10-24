@@ -21,6 +21,7 @@ Here is a comprehensive list of the projects included in this repository:
 * [0x0F : C - function pointers](./0x0F-function_pointers)
 * [0x10 : C - variadic functions](./0x10-variadic_functions)
 * [0x12 : C - singly linked lists](./0x12-singly_linked_lists)
+* [0x13 : C - more singly linked lists](./0x13-more_singly_linked_lists)
 
 
 ## Author✍️
