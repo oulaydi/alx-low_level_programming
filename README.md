@@ -25,6 +25,7 @@ Here is a comprehensive list of the projects included in this repository:
 * [0x14 : C - bit manipulation](./0x14-bit_manipulation)
 * [0x15 : C - file io](./0x15-file_io)
 * [0x17. C - Doubly linked lists](./0x17-doubly_linked_lists0x17-doubly_linked_lists)
+* [0x18. C - Dynamic libraries](./0x18-dynamic_libraries)
 
 
 ## Author✍️
